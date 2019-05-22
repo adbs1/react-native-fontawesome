@@ -14,7 +14,7 @@ React Native Fontawesome Icons
 
 ## Linking font files
 
-Download FontAwesome [font files](https://github.com/FortAwesome/Font-Awesome/releases/download/5.4.1/fontawesome-free-5.4.1-web.zip)
+Download FontAwesome [font files](https://github.com/FortAwesome/Font-Awesome/releases/download/5.8.2/fontawesome-free-5.8.2-web.zip)
 
 Create `assets/fonts` folder in the root of your project and copy `ttf` files there.
 
